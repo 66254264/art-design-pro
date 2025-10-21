@@ -93,12 +93,6 @@ Every contribution you make takes this project one step further! Come join our o
 
 The project maintains active updates, supports the latest frontend tech stack, is compatible with mainstream frameworks, and ensures long-term stability and extensibility. Community-driven feedback mechanisms allow your needs to be quickly integrated into project iterations.
 
-## Donation
-
-If you feel this project has reduced your development costs and solved problems in your work/life, you can support us through the following ways:
-
-<img src="https://www.qiniu.lingchen.kim/%E7%BB%84%202%402x%202.png" alt="Donation QR Code"/>
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Daymychen/art-design-pro&type=Date)](https://www.star-history.com/#Daymychen/art-design-pro&Date)
