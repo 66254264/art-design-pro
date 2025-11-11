@@ -100,6 +100,13 @@
         "slideBottom": "Slide Bottom",
         "slideTop": "Slide Top"
       }
+    },
+    "actions": {
+      "resetConfig": "Reset Config",
+      "copyConfig": "Copy Config",
+      "copySuccess": "Configuration copied to clipboard, paste it into src/config/setting.ts file",
+      "copyFailed": "Copy failed, please try again",
+      "resetFailed": "Reset failed, please refresh the page and try again"
     }
   },
   "notice": {
@@ -222,8 +229,7 @@
     },
     "widgets": {
       "title": "Components",
-      "iconList": "Icon List",
-      "iconSelector": "Icon Selector",
+      "icon": "Icon",
       "imageCrop": "Image Crop",
       "excel": "Excel Import Export",
       "video": "Video Player",
@@ -306,7 +312,8 @@
     "help": {
       "title": "Help Center",
       "document": "Document",
-      "liteVersion": "Lite Version"
+      "liteVersion": "Lite Version",
+      "oldVersion": "v2.6.1 Version"
     }
   },
   "table": {

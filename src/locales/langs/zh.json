@@ -100,6 +100,13 @@
         "slideBottom": "下方滑入",
         "slideTop": "上方滑入"
       }
+    },
+    "actions": {
+      "resetConfig": "重置配置",
+      "copyConfig": "复制配置",
+      "copySuccess": "配置已复制到剪贴板，可粘贴到 src/config/setting.ts 文件中",
+      "copyFailed": "复制失败，请重试",
+      "resetFailed": "重置失败，请刷新页面后重试"
     }
   },
   "notice": {
@@ -222,8 +229,7 @@
     },
     "widgets": {
       "title": "组件中心",
-      "iconList": "Icon 图标",
-      "iconSelector": "图标选择器",
+      "icon": "图标",
       "imageCrop": "图像裁剪",
       "excel": "Excel 导入导出",
       "video": "视频播放器",
@@ -306,7 +312,8 @@
     "help": {
       "title": "帮助中心",
       "document": "官方文档",
-      "liteVersion": "精简版本"
+      "liteVersion": "精简版本",
+      "oldVersion": "v2.6.1 版本"
     }
   },
   "table": {
